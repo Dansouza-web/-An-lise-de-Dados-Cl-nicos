@@ -16,6 +16,7 @@ Analisar dados clínicos de pacientes com o intuito de detectar padrões que ind
 📂 Base de Dados
 A base utilizada está disponível no Kaggle:
 🔗 Heart Attack Dataset - Tarik A. Rashid
+https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid
 
 🧪 Dados Utilizados
 A base contém variáveis clínicas e fisiológicas, incluindo:
