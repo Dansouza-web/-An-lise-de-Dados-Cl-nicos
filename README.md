@@ -52,9 +52,7 @@ Identificação das variáveis mais importantes
 A árvore de decisão foi capaz de identificar padrões significativos para distinguir pacientes com maior risco de ataque cardíaco.
 As variáveis mais relevantes para o modelo foram:
 
-Proteína Cardíaca
-
-Enzima Cardíaca
-
-Frequência Cardíaca
+-Proteína Cardíaca
+-Enzima Cardíaca
+-Frequência Cardíaca
 
