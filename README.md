@@ -48,7 +48,7 @@ Seaborn
 
 Matplotlib
 
-Scikit-learn
+Scikit-learn para Machine Learning
 
 📊 Etapas do Projeto
 
